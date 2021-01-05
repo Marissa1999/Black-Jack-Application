@@ -1,0 +1,90 @@
+header, section, footer, figure, button
+{
+	display: block;
+}
+
+	
+body 
+{
+	background-image: url("images/cardsuites.png");
+	background-repeat: repeat;
+	background-size: 10%;
+	background-color: #2E8B57;
+	background-position: center;
+}
+
+
+.wrapper
+{
+	width: 80%;
+	margin: 47px auto 47px auto;
+	border: 20px groove #B22222;
+	background-color: #008000;
+    background-image: url("images/casino_background.jpg");
+	background-size: 100%;
+	
+}
+
+
+table tr
+{
+	font-family: "Old English Text MT";
+	background-image: url("images/green_felt.jpg");
+	font-size: 25px;
+	background-color: #008000;
+}
+
+
+
+
+figure 
+{
+	float: centre;
+	width: 300px;
+	height: 430px;
+	padding: 10px;
+	margin: 20px;
+	border: 10px groove #CD5C5C;
+}
+
+
+h1
+{
+	font-family: "Castellar";
+	font-size: 40px;
+	color: white;
+}
+
+
+h2
+{
+	font-family: "Broadway";
+	font-size: 25px;
+	color: white;
+	text-decoration: underline;
+	
+}
+
+
+h1, h2
+{
+	font-weight: bold;
+	padding: 10px;
+    text-align: center;
+}
+
+
+
+button
+{
+    background-color: #006400;
+    color: white;
+    padding: 5px 30px 5px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+	font-family: "Old English Text MT";
+}
+
+
+
